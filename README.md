@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey there, I'm Aashi Garg 👋
 
-<!--
-**AashiGarg739/AashiGarg739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer always eager to learn and build cool things. Currently, I'm pursuing **Computer Science and Engineering with specialization in Artificial Intelligence** and exploring exciting opportunities in the tech world. 🚀
 
-Here are some ideas to get you started:
+## About Me 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Currently learning:** Java (Object-Oriented Programming, Spring Boot)
+- 🎯 **Goal:** To create impactful projects that make a real difference
+- 🌱 **Hobbies:** Coding, reading tech blogs, contributing to open-source
+- 🎨 **Fun fact:** I love doing DIYs and I’m always up for a challenge!
+
+## Skills & Technologies ⚙️
+
+Here’s a list of technologies and tools I work with:
+
+### Frontend:
+- HTML
+- CSS
+
+### Data Science / Machine Learning:
+- R
+- Python (Pandas, NumPy, Matplotlib)
+
+### Tools & Others:
+- VS Code
+- IntelliJ IDEA
+- RStudio
+- Anaconda
+
+## How to Reach Me 📬
+
+Feel free to reach out if you want to collaborate or just chat about tech!
+
+- Email: [aashigarg2504@gmail.com](aashigarg2504@gmail.com)
+
+## Connect with Me 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aashi-garg-3b6713326/?trk=opento_sprofile_details)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/AashiGarg739)
+
+## Stats 📊
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=AashiGarg739&show_icons=true&theme=radical)
+
+> "The best way to predict the future is to create it." – Abraham Lincoln
+
