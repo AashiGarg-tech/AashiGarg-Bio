@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## About Me 🧑‍💻
 
-- 💻 **Currently learning:** Java (Object-Oriented Programming, Spring Boot)
+- 💻 **Currently learning:** C lanuguage
 - 🎯 **Goal:** To create impactful projects that make a real difference
 - 🌱 **Hobbies:** Coding, reading tech blogs, contributing to open-source
 - 🎨 **Fun fact:** I love doing DIYs and I’m always up for a challenge!
@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 ## Stats 📊
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=AashiGarg739&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=AashiGarg-tech&show_icons=true&theme=radical)
 
 > "The best way to predict the future is to create it." – Abraham Lincoln
 
