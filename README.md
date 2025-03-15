@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## About Me 🧑‍💻
 
-- 💻 **Currently learning:** C lanuguage
+- 💻 **Currently learning:** C language
 - 🎯 **Goal:** To create impactful projects that make a real difference
 - 🌱 **Hobbies:** Coding, reading tech blogs, contributing to open-source
 - 🎨 **Fun fact:** I love doing DIYs and I’m always up for a challenge!
